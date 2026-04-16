@@ -105,15 +105,3 @@ streamlit run app.py
 | `TMDB_API_KEY` | Your personal TMDB API key |
 
 ---
-
-## ⚠️ Important Notes
-
-- Never commit your `.env` file to GitHub. Add it to `.gitignore`.
-- The `similarity.pkl` file can be large (~100MB+). Consider adding it to `.gitignore` and regenerating locally.
-- If posters fail to load, check that your TMDB API key is valid and active.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
