@@ -2,3 +2,4 @@ archive
 archive/*
 movie_list.pkl
 similarity.pkl
+.env
